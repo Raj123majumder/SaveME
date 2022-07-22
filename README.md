@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<img align="center" width="350" src="./images/a1.png"   ><img align="center" width="350" src="./images/b1.png" hspace="50">
+<img align="center" width="350" src="./images/a.png"   ><img align="center" width="350" src="./images/b.png" hspace="50">
 
-<img align="center" width="350"  src="./images/c1.png"   ><img width="350" align="center" src="./images/d1.png" hspace="50">
+<img align="center" width="350"  src="./images/c.png"   ><img width="350" align="center" src="./images/d.png" hspace="50">
